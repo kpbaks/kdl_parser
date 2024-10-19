@@ -1,6 +1,7 @@
 # KDL Parser
 
-This contains packages for converting from URDF to a representation in KDL.
+This contains packages for converting from URDF to a representation in KDL, the [Kinematics and Dynamics Library](https://www.orocos.org/kdl.html), not to be confused with the [kdl document language](https://kdl.dev/).
+
 See the ROS wiki for API documentation and tutorials.
 
 * [`kdl_parser`](http://wiki.ros.org/kdl_parser)
